@@ -1,9 +1,6 @@
 # Hi 👋, I'm Bartek
 
- 🖤 A passionate frontend developer from Poland.
- 
- 👨‍💻 I’m currently working on [Local Products App](https://github.com/zyxzb/local-products) (Next.js 13 + TS)
-
+ A passionate frontend developer from Poland.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-zarzycki) 
